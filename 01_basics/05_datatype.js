@@ -15,3 +15,5 @@ let myobj={
 const myfunc=func(){
     console.log('hello world')
 }
+
+//stack(prrimitive) and heap(non primitive)
