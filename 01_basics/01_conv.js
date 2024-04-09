@@ -13,3 +13,6 @@ console.log(booleanss)
 //1=true,0=false
 //""=false
 //manas=true
+
+console.log(1+2+"2")
+console.log("2"+1+1)
